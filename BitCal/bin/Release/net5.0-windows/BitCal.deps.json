@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "BitCal/1.0.1.0": {
+        "runtime": {
+          "BitCal.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BitCal/1.0.1.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
